@@ -21,11 +21,7 @@
   <img src="https://img.shields.io/badge/-ESLint-%234B32C3?style=flat-square&logo=eslint">
 </div>
 
-<!-- 背景图 -->
 <br />
-<br />
-
-
 <!-- 关于我 -->
 <h2 height="200px" align="center">🎉 About Me</h2>
 <br />
@@ -35,5 +31,4 @@
 - 👻 I love to share ~
 - ⛺️ you're welcome to come! ~
 - 📨 My email address is `kouyuanjin0214@163.com` Welcome to contact me 👏🏻 ~
-
 
